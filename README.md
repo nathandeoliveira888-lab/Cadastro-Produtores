@@ -1,6 +1,6 @@
 # Cadastro-Produtores
 
-Original URL: [https://codepen.io/clyzjpcc-the-typescripter/pen/pvgWzdO]
+Original URL: https://codepen.io/clyzjpcc-the-typescripter/pen/pvgWzdO
 
 # Cadastro de Produtores Culturais
 
